@@ -3,7 +3,6 @@
 <p align="center">
   <b>Back-end Developer em formação</b> | Node.js · Express · PostgreSQL · JWT<br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas — Uniube<br>
-  📍 Uberlândia, MG · 🟢 Aberto a estágio (presencial ou remoto)
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-victor-reis-batista-02b823308/">
