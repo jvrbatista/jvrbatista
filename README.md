@@ -21,6 +21,7 @@ Meu projeto principal é o **BankJS**, uma API REST bancária completa, constru�
 ---
  
 ### 🛠️ Stack atual
+
 <p align="center">
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
