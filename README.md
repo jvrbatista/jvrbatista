@@ -52,3 +52,6 @@ Meu projeto principal é o **BankJS**, uma API REST bancária completa, constru�
  
 - LinkedIn: [joão-victor-reis-batista](https://www.linkedin.com/in/joão-victor-reis-batista-02b823308/)
 - 📍 Uberlândia, MG — aberto a oportunidades de estágio em desenvolvimento back-end
+ 
+- LinkedIn: [joão-victor-reis-batista](https://www.linkedin.com/in/joão-victor-reis-batista-02b823308/)
+- 📍 Uberlândia, MG — aberto a oportunidades de estágio em desenvolvimento back-end
