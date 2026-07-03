@@ -23,14 +23,13 @@ Meu projeto principal é o **BankJS**, uma API REST bancária completa, constru�
 ### 🛠️ Stack atual
  
 <p align="center">
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
- 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 ---
  
@@ -39,6 +38,11 @@ Meu projeto principal é o **BankJS**, uma API REST bancária completa, constru�
 **[BankJS](https://github.com/jvrbatista/bank.js)** — API REST bancária com cadastro, autenticação JWT + bcrypt, transações (depósito, saque, transferência), extrato, área de gestão administrativa e detecção de fraude. Arquitetura MVC, banco PostgreSQL, deploy em nuvem (Railway).
  
 ---
+ 
+### 📫 Contato
+ 
+- LinkedIn: [joão-victor-reis-batista](https://www.linkedin.com/in/joão-victor-reis-batista-02b823308/)
+- 📍 Uberlândia, MG — aberto a oportunidades de estágio em desenvolvimento back-end
  
 ### 📫 Contato
  
