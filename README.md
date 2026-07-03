@@ -35,7 +35,7 @@ Meu projeto principal é o **BankJS**, uma API REST bancária completa, constru�
 ### 📌 Projeto em destaque
  
 <a href="https://github.com/jvrbatista/bank.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvrbatista&repo=bank.js&theme=dark" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/pin/?username=jvrbatista&repo=bank.js&theme=dark" />
 </a>
 **BankJS** — API REST bancária com cadastro, autenticação JWT + bcrypt, transações (depósito, saque, transferência), extrato, área de gestão administrativa e detecção de fraude. Arquitetura MVC, banco PostgreSQL, deploy em nuvem (Railway).
  
@@ -44,7 +44,7 @@ Meu projeto principal é o **BankJS**, uma API REST bancária completa, constru�
 ### 📊 Estatísticas
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvrbatista&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=jvrbatista&show_icons=true&theme=dark" />
 </p>
 ---
  
